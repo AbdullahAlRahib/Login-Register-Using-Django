@@ -1,1 +1,1 @@
-# Login-Register-Using-Django
+This is a small web app where user can Login and Register Using Django.User can register the app first name, last name and picture and login with username and password. Here I used Mysql for database.
